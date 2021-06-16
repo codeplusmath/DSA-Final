@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1615050103 source:e:\book\iv sem\dsa-ii\dsa-final-ecoderdecoder\morse.c
+	"Morse.h"
+
+1615050094 e:\book\iv sem\dsa-ii\dsa-final-ecoderdecoder\morse.h
+	<stdlib.h>
+	<stdio.h>
+
+1618130220 source:e:\book\iv-sem\dsa-ii\dsa-final-ecoderdecoder\main.c
+	"Morse.h"
+	"Graphic.h"
+
+1618119309 e:\book\iv-sem\dsa-ii\dsa-final-ecoderdecoder\morse.h
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	<ctype.h>
+
+1618201280 source:e:\book\iv-sem\dsa-ii\dsa-final-ecoderdecoder\graphic.c
+	"Graphic.h"
+
+1618201241 e:\book\iv-sem\dsa-ii\dsa-final-ecoderdecoder\graphic.h
+	<stdlib.h>
+	<stdio.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	"Morse.h"
+
+1618200839 source:e:\book\iv-sem\dsa-ii\dsa-final-ecoderdecoder\morse.c
+	"Morse.h"
+
+1617800493 f:\sdl2_image-devel-2.0.5-mingw\sdl2_image-2.0.5\i686-w64-mingw32\include\sdl2\sdl_image.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_version.h>
+	<SDL2/begin_code.h>
+	<SDL2/close_code.h>
+
+1617800584 f:\sdl2_ttf-devel-2.0.15-mingw\sdl2_ttf-2.0.15\i686-w64-mingw32\include\sdl2\sdl_ttf.h
+	<SDL2/SDL.h>
+	<SDL2/begin_code.h>
+	<SDL2/close_code.h>
+
